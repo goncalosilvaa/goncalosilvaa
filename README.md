@@ -66,16 +66,13 @@
 ### 🧠 IDEs/Text Editors I use
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://itsrakesh.co)
-[![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://itsrakesh.co)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://itsrakesh.co)
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://itsrakesh.co)
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://itsrakesh.co)
-[![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://itsrakesh.co)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.co)
 
 ### 💻 Workspace
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/goncalosilvaa)
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://itsrakesh.co)
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://itsrakesh.co) -->
 
@@ -86,14 +83,9 @@
 
 ---
 
-<details>
-  <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goncalosilvaa&theme=github_dark&hide_border=true)](https://github.com/goncalosilvaa)
-</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=goncalosilvaa.RakeshPotnuru)
 <!---
-RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+goncalosilvaa/goncalosilvaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
