@@ -1,54 +1,36 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gonçalo</h1>
 <h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
-
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
+- 👨‍💻 All of my projects are available [here]()
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rakesh@itsrakesh.co**
+- 📫 How to reach me **silvaaofic@gmail.com**
 
 ### 🤝 Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrakeshdotco)
-
----
-
-### 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://medium.com/codex/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-ae5a7d3a374b?source=rss-e09c62468ad2------2)
-- [What are dApps? How they are different from normal apps?](https://medium.com/coinmonks/what-are-dapps-how-they-are-different-from-normal-apps-9c10a38766b6?source=rss-e09c62468ad2------2)
-- [Most active Developer Communities you should join in 2022](https://medium.com/@itsrakesh/most-active-developer-communities-you-should-join-in-2022-cb7254f8620?source=rss-e09c62468ad2------2)
-- [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
-- [Join me in the #100DaysOfWeb3 challenge](https://medium.com/@itsrakesh/join-me-in-the-100daysofweb3-challenge-abc13e831d27?source=rss-e09c62468ad2------2)
-<!-- BLOG-POST-LIST:END -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/goncalosilvaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/goncalosilva18)
 
 ---
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=goncalosilvaa&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalosilvaa&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
 
 ---
 
 ### 🧑‍💻 Languages
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://itsrakesh.co)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://itsrakesh.co)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://itsrakesh.co)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://itsrakesh.co)
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://itsrakesh.co)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://itsrakesh.co)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://itsrakesh.co)
-[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://itsrakesh.co)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
+[![mysql](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
 
 ### 🧩 Frameworks/Libraries
 
