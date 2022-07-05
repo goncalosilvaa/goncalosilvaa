@@ -36,6 +36,7 @@
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://itsrakesh.co)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://itsrakesh.co)
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://itsrakesh.co)
+[![json](https://img.shields.io/badge/json-0769AD?style=for-the-badge&logo=json&logoColor=white)](https://itsrakesh.co)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://itsrakesh.co)
 
 ### 🗃️ Databases
