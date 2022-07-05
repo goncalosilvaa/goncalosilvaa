@@ -47,6 +47,7 @@
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://itsrakesh.co)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://itsrakesh.co)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://itsrakesh.co)
+[![yarn](https://img.shields.io/badge/yarn-CB3837?style=for-the-badge&logo=yarn&logoColor=white)](https://itsrakesh.co)
 [![insomnia](https://img.shields.io/badge/Insomnia-CB3837?style=for-the-badge&logo=insomnia&logoColor=white)](https://itsrakesh.co)
 
 
