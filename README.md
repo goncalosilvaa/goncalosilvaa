@@ -71,12 +71,6 @@
 
 ---
 
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=goncalosilvaa.RakeshPotnuru)
 <!---
 goncalosilvaa/goncalosilvaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
