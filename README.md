@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gonçalo</h1>
 <h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available [here]()
 
